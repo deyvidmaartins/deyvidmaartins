@@ -7,9 +7,9 @@
 
 #### I'm Deyvid Martins, a 19 year old data analyst from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
-![Deyvid GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvidmartins&show_icons=true&theme=radical)
+![Deyvid GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvidmaartins&show_icons=true&theme=radical)
 
-[![Deyvid Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Deyvid Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidmaartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
