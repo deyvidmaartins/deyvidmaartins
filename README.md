@@ -10,7 +10,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deyvid-martins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deyvid-martins/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/deyvid-martins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deyvid-martins/" height="30" width="40" /></a>
 <a href="https://instagram.com/deyvidmaartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deyvidmaartins" height="30" width="40" /></a>
 <a href="https://discord.gg/Deyvid#5677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deyvid#5677" height="30" width="40" /></a>
 </p>
