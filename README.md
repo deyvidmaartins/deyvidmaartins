@@ -6,7 +6,7 @@
 
 - 🌱 Aprendendo e programando em **Python e Machine Learning**
 
-- 💬 Pergunte-te me sobre **SQL, Python, PowerBI e Excel**
+- 💬 Pergunte-me sobre **SQL, Python, PowerBI e Excel**
 
 - 📫 Encontre-me através do e-mail **deyvid.silva123@gmail.com**
 
