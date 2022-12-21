@@ -8,7 +8,7 @@
 
 - 💬 Pergunte-te me sobre **SQL, Python, PowerBI e Excel**
 
-- 📫 Me ache através do e-mail **deyvid.silva123@gmail.com**
+- 📫 Encontre-me através do e-mail **deyvid.silva123@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
