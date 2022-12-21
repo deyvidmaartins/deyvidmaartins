@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Deyvid Martins</h1>
-<h4 align="center">Um analista de dados de 19 anos do Brasil e sou apaixonado por tecnologia, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h4>
-
+<h3 align="center">Um analista de dados de 19 anos do Brasil e sou apaixonado por tecnologia, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h3>
+<br>
 - 🌱 Aprendendo e programando em **Python e Machine Learning**
 
 - 💬 Pergunte-te me sobre **SQL, Python, PowerBI e Excel**
