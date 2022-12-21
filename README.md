@@ -1,17 +1,22 @@
-### Hi everyone! 👋
+<h1 align="center">Olá 👋, Eu sou Deyvid Martins</h1>
+<h3 align="center">Um analista de dados de 19 anos do Brasil e sou apaixonado por tecnologia, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/deyvid-martins/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-](https://www.instagram.com/deyvidmaartins/)
+- 🌱 Aprendendo e programando em **Python e Machine Learning**
 
-#### I'm Deyvid Martins, a 19 year old data analyst from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
+- 💬 Pergunte-te me sobre **SQL, Python, PowerBI e Excel**
 
-![Deyvid GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvidmaartins&show_icons=true&theme=radical)
+- 📫 Me ache através do e-mail **deyvid.silva123@gmail.com**
 
-[![Deyvid Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidmaartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deyvid-martins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deyvid-martins/" height="30" width="40" /></a>
+<a href="https://instagram.com/deyvidmaartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deyvidmaartins" height="30" width="40" /></a>
+<a href="https://discord.gg/Deyvid#5677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deyvid#5677" height="30" width="40" /></a>
+</p>
 
-<div style="display: inline_block"><br>
-   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-   <img aling="center" alt="Linguagem R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">   
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvidmaartins&show_icons=true&locale=en&layout=compact" alt="deyvidmaartins" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deyvidmaartins&" alt="deyvidmaartins" /></p>
