@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Deyvid Martins</h1>
-<h3 align="center">Um Dev Front-End de 19 anos do Brasil e sou apaixonado por tecnologia, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h3>
+<h3 align="center">Um Dev Front-End de 19 anos do Brasil. Sou apaixonado por tecnologia, livros, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h3>
 <br>
 
 - 🌱 Aprendendo e programando em **Python e Machine Learning**
