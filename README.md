@@ -2,9 +2,11 @@
 <h3 align="center">Um Dev Front-End de 19 anos do Brasil. Sou apaixonado por tecnologia, livros, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h3>
 <br>
 
+- 🔭 Buscando experiência profissional como Desenvolvedor Front-end**
+
 - 🌱 Aprendendo e programando em **Python e Machine Learning**
 
-- 💬 Pergunte-te me sobre **HTML5, CSS3, JavaScript e ReactJS**
+- 💬 Pergunte-te me sobre **HTML5, CSS3, JavaScript, ReactJS e Python**
 
 - 📫 Me ache através do e-mail **deyvid.silva123@gmail.com**
 
