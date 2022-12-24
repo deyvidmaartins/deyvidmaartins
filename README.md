@@ -10,7 +10,7 @@
 
 - 📫 Me ache através do e-mail **deyvid.silva123@gmail.com**
 
-<h3 align="left">Conecte-se comigo</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deyvid-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyvid-martins" height="30" width="40" /></a>
 <a href="https://instagram.com/deyvidmaartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deyvidmaartins" height="30" width="40" /></a>
