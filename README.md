@@ -2,7 +2,7 @@
 <h3 align="center">Um Analista de Dados de 19 anos do Brasil. Sou apaixonado por tecnologia, livros, comunidades e tudo mais. Amo aprender, resolver problemas e contribuir de todas as formas possíveis.</h3>
 <br>
 
-- 🔭 Buscando experiência profissional como Desenvolvedor Front-end
+- 🔭 Buscando experiência profissional como Analista de dados.
 
 - 🌱 Aprendendo e programando em **Python e Machine Learning**
 
